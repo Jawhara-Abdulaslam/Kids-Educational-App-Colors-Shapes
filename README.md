@@ -22,16 +22,39 @@ lib/
 │   └── audio_service.dart
 └── utils/
 └── constants.dart
+# Kids Learning App – Colors & Shapes 🎨🔺⚪
 
-## Getting Started
+An educational Flutter app helping kids learn colors & shapes through voice, animations, and interactive UI.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Features
+🎧 Arabic voice pronunciation  
+🎨 Animated illustrations  
+🧩 Kid-friendly UI and icons  
+🔊 Tap-to-hear feature  
+✅ Safe learning environment  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠 Tech Stack
+- Flutter & Dart
+- Assets: Audio + Images
+- State Management: Provider
+
+---
+
+## 📸 Screenshots
+(Will be added soon)
+
+---
+
+## 🎯 Target Users
+Preschool children (ages 3–6)
+
+---
+
+## 🚀 Future Enhancements
+- Mini games for interactive learning
+- Progress tracking system
+ce on mobile development, and a full API reference.
