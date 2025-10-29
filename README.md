@@ -45,7 +45,7 @@ An educational Flutter app helping kids learn colors & shapes through voice, ani
 ---
 
 ## 📸 Screenshots
-(Will be added soon)
+(above)
 
 ---
 
